@@ -1,5 +1,5 @@
-### Privacy Policy:
-
+Privacy Policy:
+===============
 At our [world tourist places] app, we are committed to protecting your privacy.
 As our app does not interact with users, we do not collect any personal data from our users.
 
